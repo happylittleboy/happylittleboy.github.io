@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "windows telnet 回显"
+date:   2016-11-24 20:45:18 +0800
+categories: windows
+---
 windows默认是没有打开telent功能的，需要手动启用：
 打开`控制面板`----`程序`----`启用或关闭Windows功能`----打开telnet客户端。
 在cmd中输入telnet，进入Microsoft Telnet>命令提示符下，输入`help`
