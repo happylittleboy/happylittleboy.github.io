@@ -11,7 +11,7 @@ windows默认是没有打开telent功能的，需要手动启用：
 <img src="/file/telnet1.png"/>
 输入`set ?`
 显示：
-<img src="file/telnet2.png"/>
+<img src="/file/telnet2.png"/>
 输入 `set localecho`
 输入`quit`退出
 <hr>
