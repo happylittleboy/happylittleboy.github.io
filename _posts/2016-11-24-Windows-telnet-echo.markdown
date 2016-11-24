@@ -8,10 +8,14 @@ windows默认是没有打开telent功能的，需要手动启用：
 打开`控制面板`----`程序`----`启用或关闭Windows功能`----打开telnet客户端。
 在cmd中输入telnet，进入Microsoft Telnet>命令提示符下，输入`help`
 显示：
+<div>
 <img src="/file/telnet1.png"/>
+</div>
 输入`set ?`
 显示：
+<div>
 <img src="/file/telnet2.png"/>
+</div>
 输入 `set localecho`
 输入`quit`退出
 <hr>
